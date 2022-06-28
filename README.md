@@ -47,7 +47,7 @@ the option to choose a version will be inside the program.</br>
 
 ### Running the program
 #### The program need to run from CMD (Windows Command Prompt). </br>
-STEP 1: Download the version you want. [Normal version](/assets/YugiohPriceCalc_normal) or [Efficient version](/recources/jar/YugiohPriceCalc_efficient)</br>
+STEP 1: Download the version you want. [Normal version](/recources/jar/YugiohPriceCalc_normal.jar) or [Efficient version](/recources/jar/YugiohPriceCalc_efficient.jar)</br>
 STEP 2: Open <b>CMD</b> and navigate to the folder containing the jar file</br>
 STEP 3: In the CMD write: 	for the Normal version:		<b>java -jar YugiohPriceCalc_normal.jar</b></br>
 							for the Efficient version:	<b>java -jar YugiohPriceCalc_efficient.jar</b></br>
@@ -65,12 +65,13 @@ STEP 4: Follow the instructions from inside the program.
 - 500 KB of free space
 - Stable internet connection
 
-## License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE) file for details. </br>
-> Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+## MIT License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details. </br>
+> A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 ## Credits
 - All the coding was done by me, for any feedback or complains please open an issue or contact me directly.
+If you use the code or parts of it in your own project i'd be grateful if you could credit me and even send me the product you are working on to see myself :)
 
 - Thanks to the YugiohPrices team for their wonderful price tracking abillities and free API. </br>
 at https://yugiohprices.com
