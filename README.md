@@ -43,7 +43,6 @@ In order to get the wanted folder's path:
 ### Choose the version you want: Normal version Vs. Efficient version
 The normal Version print each file discoverd and each GET request sent to the YugiohPrices server, which can make scanning really large collections needlesly slow.</br>
 whereas the efficient version remove all those printing and display only the welcome menu, end menu and errors if any shows up.</br>
-the option to choose a version will be inside the program.</br>
 
 ### Running the program
 #### The program need to run from CMD (Windows Command Prompt). </br>
