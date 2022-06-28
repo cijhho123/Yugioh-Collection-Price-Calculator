@@ -50,9 +50,10 @@ the option to choose a version will be inside the program.</br>
 STEP 1: Download the version you want. [Normal version](/recources/jar/YugiohPriceCalc_normal.jar) or [Efficient version](/recources/jar/YugiohPriceCalc_efficient.jar)</br>
 STEP 2: Open <b>CMD</b> and navigate to the folder containing the jar file</br>
 STEP 3: In the CMD write: 	for the Normal version:		<b>java -jar YugiohPriceCalc_normal.jar</b></br>
-							for the Efficient version:	<b>java -jar YugiohPriceCalc_efficient.jar</b></br>
+				for the Efficient version:	<b>java -jar YugiohPriceCalc_efficient.jar</b></br>
 STEP 4: Follow the instructions from inside the program.
 
+The source code can be found under [/source code/](/recources/source%20code)
 
 ## Disclaimer
 - The program pulles the data from the YugiohPrices API which updates every few hours.
