@@ -38,7 +38,7 @@ In order to get the wanted folder's path:
 2. right click on the icon > click <b>"Properties"</b>
 3. find the <b>"Location"</b> field and copy its entire content </br>
  (make sure you copy the entire thing, if the path is too long it won't show everything and you'll have to scroll to the side)
-4. run the program and paste the path and you are told to.
+4. run the program and paste the path when you are told to.
 
 ### Choose the version you want: Normal version Vs. Efficient version
 The normal Version print each file discoverd and each GET request sent to the YugiohPrices server, which can make scanning really large collections needlesly slow.</br>
