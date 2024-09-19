@@ -1,4 +1,4 @@
-[![banner](/recources/assets/banner.png)](https://yugiohprices.com/)
+[![banner](/resources/assets/banner.png)](https://yugiohprices.com/)
 
 # Yugioh Collection Price Calculator
 A tool to help people evaluate their Yugioh collection's prices with up do date information with the YugiohPrices API 
@@ -30,7 +30,7 @@ https://yugioh.fandom.com/wiki/Card_Number
 The program will try to send each row of each text file to the YugiohPrices server as a print tag. therefore, please make sure that the only text files in the path you provide the program contains only print tags, in order to prevert accidentally flooding the server with useless requests.
 
 The program need text files in specific format. </br> 
-Each print tag in a new line, without spaces before or after the tag. for example text file click [here](/recources/assets/example.txt).
+Each print tag in a new line, without spaces before or after the tag. for example text file click [here](/resources/assets/example.txt).
 
 ### Get the right path
 In order to get the wanted folder's path:
@@ -41,18 +41,18 @@ In order to get the wanted folder's path:
 4. run the program and paste the path when you are told to.
 
 ### Choose the version you want: Normal version Vs. Efficient version
-The normal Version print each file discoverd and each GET request sent to the YugiohPrices server, which can make scanning really large collections needlesly slow.</br>
-whereas the efficient version remove all those printing and display only the welcome menu, end menu and errors if any shows up.</br>
+The normal Version print each file discoverd and each GET request sent to the YugiohPrices server, which can make scanning really large collections needlesly slow.  
+Whereas the efficient version remove all those printing and display only the welcome menu, end menu and errors if any shows up.  
 
 ### Running the program
 #### The program need to run from CMD (Windows Command Prompt). </br>
-STEP 1: Download the version you want. [Normal version](/recources/jar/YugiohPriceCalc_normal.jar) or [Efficient version](/recources/jar/YugiohPriceCalc_efficient.jar)</br>
+STEP 1: Download the version you want. [Normal version](/resources/jar/YugiohPriceCalc_normal.jar) or [Efficient version](/resources/jar/YugiohPriceCalc_efficient.jar)</br>
 STEP 2: Open <b>CMD</b> and navigate to the folder containing the jar file</br>
 STEP 3: In the CMD write: 	for the Normal version:		<b>java -jar YugiohPriceCalc_normal.jar</b></br>
 				for the Efficient version:	<b>java -jar YugiohPriceCalc_efficient.jar</b></br>
 STEP 4: Follow the instructions from inside the program.
 
-The source code can be found under [/source code/](/recources/source%20code)
+The source code can be found under [/source code/](/resources/source%20code)
 
 ## Disclaimer
 - The program pulles the data from the YugiohPrices API which updates every few hours.
