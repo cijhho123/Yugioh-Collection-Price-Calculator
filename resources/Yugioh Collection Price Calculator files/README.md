@@ -1,10 +1,10 @@
 Thanks for using my program!
 
-If any issue occures please contact me at cijhho12345@gmail.com
+If any issue occures please open an issue on the github.
 
 *IMPORTANT NOTES:*
 - Please dont move files outside of this folder, the folder itself can be move as a whole
-- To start the program open open the file called Yugioh Collection Price Calculator 
+- To start the program open open the file called "Yugioh Collection Price Calculator"
 
 For more information, guide and source code please visit the Github page:
 https://github.com/cijhho123/Yugioh-Collection-Price-Calculator
